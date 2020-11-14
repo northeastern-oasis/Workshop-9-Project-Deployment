@@ -1,0 +1,1 @@
+serve static-site -l 5000
