@@ -9,10 +9,10 @@
 
 Congratulations on staring to think about launching your project! Having it live on your computer is cool, but it's always fun to put it out in the world and let others try it out :)
 
-## Getting Started
-
 
 ## During the workshop
+
+The interactive part will involve pushing a basic site to Github pages
 
 
 ## After the Workshop
