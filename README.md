@@ -17,6 +17,4 @@ The interactive part will involve pushing a basic site to Github pages
 
 ## After the Workshop
 
-Well done finishing the workshop! You now understand the steps to take to actually launch your project! These "after the workshop" steps are especially crucial for this workshop because you will need to take the steps to actually put your app out there now. We would recommend the following steps for doing so:
-
-- 
+Well done finishing the workshop! You now understand the steps to take to actually launch your project! These "after the workshop" steps are especially crucial for this workshop because you will need to take the steps to actually put your app out there now. We will follow up with steps to keep learning!
